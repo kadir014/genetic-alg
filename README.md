@@ -1,2 +1,1 @@
-# genetic-alg
- Genetic algorithm challenge in Python & Pygame
+@davidpendergast 's genetic algorithm challenge in Python & Pygame-CE
